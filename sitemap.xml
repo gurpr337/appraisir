@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://appraisir.com/</loc>
+  <lastmod>2022-03-11T06:54:18+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/About/</loc>
+  <lastmod>2022-03-11T06:54:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+<loc>https://appraisir.com/Daily/</loc>
+<lastmod>2022-03-11T06:54:18+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/Login/</loc>
+  <lastmod>2022-03-11T06:54:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/Signup/</loc>
+  <lastmod>2022-03-11T06:54:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/play/?state=MD&amp;mls=M6594039110</loc>
+  <lastmod>2022-01-25T23:51:26+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/play/?state=AR&amp;mls=M9443339587</loc>
+  <lastmod>2022-01-25T23:51:26+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/play/?state=AZ&amp;mls=M2429798166</loc>
+  <lastmod>2022-01-25T23:51:26+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/play/?state=CA&amp;mls=M2962802303</loc>
+  <lastmod>2022-01-25T23:51:26+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/play/?state=VA&amp;mls=M6243265216</loc>
+  <lastmod>2022-01-25T23:51:26+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/play/?state=NV&amp;mls=M1566290820</loc>
+  <lastmod>2022-01-25T23:51:26+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/play/?state=MO&amp;mls=M8205952869</loc>
+  <lastmod>2022-01-25T23:51:26+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/play/?state=IL&amp;mls=M7223227801</loc>
+  <lastmod>2022-01-25T23:51:26+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://appraisir.com/play/?state=FL&amp;mls=M6444862166</loc>
+  <lastmod>2022-01-25T23:51:26+00:00</lastmod>
+  <priority>0.40</priority>
+</url>
+
+
+</urlset>
